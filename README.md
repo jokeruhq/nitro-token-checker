@@ -16,3 +16,9 @@ nitro-token-checker
     ├── locked.txt
     └── nonitro.txt
 ```
+
+> **Linux installation:**
+
+```
+cd && git clone https://github.com/jokeruhq/nitro-token-checker && cd nitro-token-checker && pip3 install -r requirements.txt
+```
