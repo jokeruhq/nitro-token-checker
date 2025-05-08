@@ -8,6 +8,7 @@
 nitro-token-checker
 ├── main.py
 ├── tokens.txt
+├── requirements.txt
 └── output/
     ├── 0boosts.txt
     ├── 1boosts.txt
