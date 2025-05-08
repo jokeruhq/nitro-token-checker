@@ -8,11 +8,11 @@
 nitro-token-checker
 ├── main.py
 ├── tokens.txt
-├── output/
-│   ├── 0boosts.txt
-│   ├── 1boosts.txt
-│   ├── 2boosts.txt
-│   ├── invalid.txt
-│   ├── locked.txt
-│   ├──nonitro.txt
+└── output/
+    ├── 0boosts.txt
+    ├── 1boosts.txt
+    ├── 2boosts.txt
+    ├── invalid.txt
+    ├── locked.txt
+    └── nonitro.txt
 ```
