@@ -31,3 +31,5 @@ cd && git clone https://github.com/jokeruhq/nitro-token-checker && cd nitro-toke
 2. Install the requirements with: pip install -r requirements.txt
 3. Execute the main script after adding the tokens to the tokens.txt file with python main.py
 ```
+
+<img src="https://www.star-history.com/#jokeruhq/nitro-token-checker&Date">
