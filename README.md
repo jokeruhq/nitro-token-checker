@@ -23,3 +23,11 @@ nitro-token-checker
 ```
 cd && git clone https://github.com/jokeruhq/nitro-token-checker && cd nitro-token-checker && pip3 install -r requirements.txt
 ```
+
+> **Windows installation:**
+
+```
+1. Download and extract the .zip
+2. Install the requirements with: pip install -r requirements.txt
+3. Execute the main script after adding the tokens to the tokens.txt file with python main.py
+```
